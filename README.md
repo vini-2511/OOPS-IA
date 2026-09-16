@@ -43,24 +43,6 @@ This repository contains Java programs demonstrating important Object-Oriented P
 - NullPointerException
 - User Input using Scanner
 
-## Repository Structure
-
-OOPS-IA/
-│
-├── Member-1/
-│   ├── InsuranceClaimManagement.java
-│   └── InsuranceClaimOutput.png
-│
-├── Member-2/
-│   ├── Approvable_Autoclaim.java
-│   └── AutoClaimOutput.png
-│
-├── Member-3/
-│   ├── NullPointerException_Claim.java
-│   └── NullPointerExceptionOutput.png
-│
-└── README.md
-
 ## Conclusion
 
 This project demonstrates the practical implementation of Java OOP concepts and exception handling through an Insurance Claim Management System.
